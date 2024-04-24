@@ -1,0 +1,11 @@
+{
+  "name": "emotion",
+  "implementation": "serve.EmotionModel",
+  "inputs": [
+    {
+      "name": "b64",
+      "datatype": "BYTES",
+      "shape": [1]
+    }
+  ]
+}
